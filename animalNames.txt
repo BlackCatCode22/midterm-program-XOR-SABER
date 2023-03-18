@@ -1,15 +1,4 @@
-Hyena Names:
-
-Shenzi, Banzai, Ed, Zig, Bud, Lou, Kamari, Wema, Nne, Madoa, Prince Nevarah
-
-Lion Names:
-
-Scar, Mufasa, Simba, Kiara, King, Drooper, Kimba, Nala, Leo, Samson, Elsa, Cecil
-
-Bear Names:
-
-Yogi, Smokey, Paddington, Lippy, Bungle, Baloo, Rupert, Winnie the Pooh, Snuggles, Bert
-
-Tiger Names:
-
-Tony, Tigger, Amber, Cosimia, Cuddles, Dave, Jiba, Rajah, Rayas, Ryker
+Hyena Names: Simba, Nala, Shenzi, Banzai, Ed, Kamau, Shaka, Mufasa, Sarabi, Scar, Zazu, Rafiki, Pumbaa, Timon, Kiara, Kovu, Vitani, Zira, Azizi, Kamari, Kijani, Safi, Kito, Nyota, Nuru, Taka, Uru, Duma, Kali, Dalia, Giza, Joka, Kato, Lulu, Makini, Mamba, Marjani, Nadra, Rafu, Raha, Saba, Sahel, Salama, Sanaa, Shani, Siri, Tafu, Tamaa, Tano, Zola
+Lion Names: Savana, Asante, Koda, Zola, Jelani, Jua, Lira, Nuka, Adia, Baruti, Dari, Kaliyah, Kisa, Kofi, Luluu, Makai, Mandisa, Nakato, Razi, Shaka, Taraji, Tendaji, Thabo, Zaire, Akila, Azra, Binti, Imara, Jahzara, Jafari, Kaida, Kato, Kirabo, Kitendo, Kosey, Mahari, Nia, Obasi, Rasha, Raziya, Safiya, Shakir, Tafari, Tumaini, Yara, Zalika, Zawadi, Zuberi
+Bear Names: Ursula, Bruno, Baloo, Paddington, Yogi, Smokey, Grizzly, Kodiak, Pooh, Boo Boo, Gentle Ben, Honey, Cinnamon, Koda, Brownie, Fuzzy, Gummy, Teddy, Toto, Alfie, Beary, Boomer, Brute, Cali, Choco, Clyde, Cocoa, Cooper, Digger, Finn, Fudge, Gadget, Grendel, Huxley, Jasper, Juniper, Kahlua, Kuma, Maple, Merlin, Oso, Pepper, Puddles, Rascal, Rusty, Sasha, Scrappy, Sunny, Wally, Winnie
+Tiger Names: Rajah, Shere Khan, Bagheera, Tigger, Tony, Sasha, Kisa, Diego, Pasha, Kaida, Lacey, Nala, Nika, Dora, Salem, Willow, Fawnya, Nimra, Simba, Jasmine, Jinx, Apollo, Thor, Khan, Kato, Tygra, Roar, Zara, Bastet, Luna, Magnum, Rani, Rajani, Tigress, Anora, Blaze, Caesar, Dash, Zara, Esmeralda, Fenrir, Gia, Indira, Leo, Mohini, Nero, Panthera, Raja, Saffron, Shadow

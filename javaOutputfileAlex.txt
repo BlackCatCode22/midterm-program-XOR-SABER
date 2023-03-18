@@ -1,0 +1,25 @@
+Midterm Program Output; by Alexander Betancourt, Spring 2023, Seaside, CA
+
+Hyena Habitat:
+	Hy01; Zola; 4 years old; birth date 2019-03-21; tan color; female; 70 pounds; from Friguia Park, Tunisia; arrvied 2023-03-18
+	Hy02; Tano; 12 years old; birth date 2011-09-21; brown color; male; 150 pounds; from Friguia Park, Tunisia; arrvied 2023-03-18
+	Hy03; Tamaa; 4 years old; birth date 2019-03-21; black color; male; 120 pounds; from Friguia Park, Tunisia; arrvied 2023-03-18
+	Hy04; Tafu; 8 years old; birth date 2015-01-01; black and tan striped color; female; 105 pounds; from Friguia Park, Tunisia; arrvied 2023-03-18
+
+Lion Habitat:
+	Li01; Zuberi; 6 years old; birth date 2017-03-21; tan color; female; 300 pounds; from Zanzibar, Tanzania; arrvied 2023-03-18
+	Li02; Zawadi; 12 years old; birth date 2011-12-21; dark tan color; female; 375 pounds; from KopeLion, Tanzania; arrvied 2023-03-18
+	Li03; Zalika; 22 years old; birth date 2001-09-21; golden color; male; 450 pounds; from Zanzibar, Tanzania; arrvied 2023-03-18
+	Li04; Yara; 4 years old; birth date 2019-03-21; tan and brown color; female; 275 pounds; from KopeLion, Tanzania; arrvied 2023-03-18
+
+Tiger Habitat:
+	Ti01; Shadow; 2 years old; birth date 2021-03-21; gold and tan stripes color; male; 270 pounds; from Dhaka, Bangladesh; arrvied 2023-03-18
+	Ti02; Saffron; 4 years old; birth date 2019-03-21; black stripes color; female; 400 pounds; from Dhaka, Bangladesh; arrvied 2023-03-18
+	Ti03; Raja; 18 years old; birth date 2005-09-21; gold and tan color; male; 300 pounds; from Bardia, Nepal; arrvied 2023-03-18
+	Ti04; Panthera; 3 years old; birth date 2020-03-21; black stripes color; female; 285 pounds; from Bardia, Nepal; arrvied 2023-03-18
+
+Bear Habitat:
+	Be01; Winnie; 7 years old; birth date 2016-03-21; brown color; male; 320 pounds; from Alaska Zoo, Alaska; arrvied 2023-03-18
+	Be02; Wally; 25 years old; birth date 1998-03-21; black color; female; 425 pounds; from Woodland park Zoo, Washington ; arrvied 2023-03-18
+	Be03; Sunny; 4 years old; birth date 2019-09-21; black color; female; 355 pounds; from Woodland park Zoo, Washington ; arrvied 2023-03-18
+	Be04; Scrappy; 4 years old; birth date 2019-03-21; brown color; male; 405 pounds; from Alaska Zoo, Alaska; arrvied 2023-03-18
